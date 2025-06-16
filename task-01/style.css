@@ -16,13 +16,6 @@ body {
   font-weight: 700;
   margin-bottom: 10px;
 }
-
-.subtitle {
-  color: #888;
-  font-size: 16px;
-  margin-bottom: 40px;
-}
-
 .cricketer {
   display: flex;
   justify-content: center;
